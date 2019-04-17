@@ -1,0 +1,19 @@
+{
+  "name": "bscript-opcodes",
+  "version": "1.0.0",
+  "description": "Opcodes for bscript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBaczuk/bscript-opcodes.git"
+  },
+  "author": "Jordan Baczuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JBaczuk/bscript-opcodes/issues"
+  },
+  "homepage": "https://github.com/JBaczuk/bscript-opcodes#readme"
+}
